@@ -1,7 +1,7 @@
 # Technology Trends & Market Demand Analysis Project
 📄 Project Report
 
-The full detailed report for this project can be accessed below:
+The detailed report for this project can be accessed below:
 
 📥 Final Project Report
 
